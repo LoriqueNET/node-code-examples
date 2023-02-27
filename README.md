@@ -13,5 +13,5 @@ Mixins or base classing can be used for the same purpose, but every once in a wh
 
 [Medium.com](https://medium.com/@lorique/how-to-use-prototyping-to-make-smarter-code-with-nodejs-604afa2c0cfb)
 
-[My website](#)
+[My website](https://www.lorique.net/posts/code-examples/nodejs/how-to-use-prototyping-to-make-smarter-code-with-nodejs/)
 
