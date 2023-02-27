@@ -1,0 +1,16 @@
+{
+  "name": "node-prototyping",
+  "version": "1.0.0",
+  "description": "Node code example using prototyping.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Martin Ricken",
+  "license": "ISC",
+  "dependencies": {
+    "file-system-cache": "^2.0.2",
+    "node-fetch": "^3.3.0"
+  }
+}
