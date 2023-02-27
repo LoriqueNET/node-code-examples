@@ -1,4 +1,4 @@
-# node-code-examples
+# NodeJS Code Examples
 
 This repository contains working code examples for NodeJS, described in posts made on my [website](https://www.lorique.net) and [Medium](https://medium.com/@lorique) . What follows is an installation guide and links to examples.
 
